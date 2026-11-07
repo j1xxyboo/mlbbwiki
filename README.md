@@ -109,4 +109,4 @@ Hand-written hero analyses (summary, strengths, weaknesses, annotated builds, sk
 
 Mobile Legends: Bang Bang is a trademark of Moonton. This is a community project, not affiliated with or endorsed by Moonton.
 
-Game data and art come from public community sources, esports data from Liquipedia under CC BY-SA 3.0, pro data from PandaScore. The counters and builds-by-rank views were ported from achedon12/mlbb.
+Game data and art come from public community sources, esports data from Liquipedia under CC BY-SA 3.0, pro data from PandaScore. The counters and builds-by-rank views were ported from mlbb.
