@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/readme/logo.png" alt="mlbb.wiki" width="96" />
-</p>
 
 <h1 align="center">mlbb.wiki</h1>
 
