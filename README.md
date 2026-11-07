@@ -100,7 +100,7 @@ Sign in with your Player ID and Server ID. The game mails a 4-digit code to your
 | Pro teams, players and live matches | PandaScore API | serverless routes under `/api` |
 | Events and skin calendar | Game events feed | `npm run sync:events` |
 | Advance Server notes, news | Official channels | `npm run sync:advance-server`, `npm run watch:news` |
-| Player account | The game's account API, proxied by `/api/mlbb-*` | live, on sign-in |
+| Player account | The game's account API, proxied by `(https://mlbb.bypaxxy.rip/)` | live, on sign-in |
 
 Hand-written hero analyses (summary, strengths, weaknesses, annotated builds, skill order, tips) live in `src/data/wiki/heroes/` and are layered on top of the synced data by hero slug.
 
